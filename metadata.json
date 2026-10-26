@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Discord Bot & Dashboard",
+  "description": "All-in-one Discord bot management suite featuring custom slash command builder, real-time analytics, support tickets, automod, leveling, and 1-click GitHub & Render deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
